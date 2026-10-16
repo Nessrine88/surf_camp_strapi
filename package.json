@@ -14,6 +14,9 @@
     "@strapi/plugin-users-permissions": "4.13.7",
     "@strapi/strapi": "4.13.7",
     "better-sqlite3": "8.6.0",
+    "pg": "^8.23.1",
+    "qs": "^6.16.1",
+    "strapi-neon-tech-db-branches": "^0.1.18",
     "strapi-plugin-populate-deep": "^3.0.1"
   },
   "author": {
@@ -26,5 +29,8 @@
     "node": ">=16.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.95.0"
+  }
 }
