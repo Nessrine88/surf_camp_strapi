@@ -16,7 +16,6 @@
     "better-sqlite3": "8.6.0",
     "pg": "^8.23.1",
     "qs": "^6.16.1",
-    "strapi-neon-tech-db-branches": "^0.1.18",
     "strapi-plugin-populate-deep": "^3.0.1"
   },
   "author": {
